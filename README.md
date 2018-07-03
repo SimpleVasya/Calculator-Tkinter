@@ -1,8 +1,6 @@
-
-
-## __General Info__
 > 25.04.2018  
 
+## __General Info__
    Just a simple calculator. Written in order to utilize freshly learned Python GUI creating skills.
 For the graphical user interface I used TKinter.
 
