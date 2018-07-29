@@ -1,5 +1,5 @@
-""" Calculator GUI by Piotr Goldys """
-""" A bit updated by Simple Vasya """
+""" Calculator GUI by Piotr Goldys """ 
+""" -*- A bit updated by Simple Vasya -*- """
 
 from tkinter import *
 import tkinter.ttk as tk
