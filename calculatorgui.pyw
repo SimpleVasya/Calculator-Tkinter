@@ -81,6 +81,7 @@ def ans():
 def info():
     global tooltip
     tooltip = Tk()
+    tooltip.title("Help")
     tooltip.resizable(width="false",height="false")
     tooltip.iconbitmap("C:\\Windows\\System32\\DriverStore\\FileRepository\\ntprint.inf_x86_d174002f2f9e1a17\\I386\\UNIDRV.HLP")
 
